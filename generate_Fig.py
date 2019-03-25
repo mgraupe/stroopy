@@ -112,7 +112,7 @@ ax0.xaxis.set_major_locator(majorLocator_x)
 
 
 ax0.set_xscale('log')
-
+plt.xticks([4,7, 10,20,40],[4,7,10,20,40])
 
 # legends and labels
 #plt.legend(loc=1,frameon=False)
