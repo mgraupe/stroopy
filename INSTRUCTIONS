@@ -1,98 +1,100 @@
-Swedish
+French
 
-instructionsSTART
-Din uppgift är att så korrekt och snabbt som möjligt avgöra vilken färg ett ord är skrivet med.
-Du för två alternativ, ett på vardera  sida om det färgade ordet.
-Använd X-tangent för vänster, och M-tangent för höger.
+instructions1aSTART
+Expérience interactive sur l'effet stroop
 
+Dans cette expérience, vous devez dire la couleur du mot, pas ce que le mot dit. Par exemple, pour les mots
+instructions1aEND
 
+instructions1bSTART
+vous devriez dire "Bleu, Rouge, Vert". 
 
-I exemplet nedan skulle du alltså tryckt på X (vänster), eftersom färgen på mittenordet är grön.
+Dès que les mots apparaissent à l'écran, lis la liste aussi vite que possible. 
 
-instructionsEND
+Lorsque tu as terminé, appuyez sur ESPACE.
+instructions1bEND
 
-practiceSTART
-Tryck på MELLANSLAG för att testa 6 omgångar innan själva testet startar.
-practiceEND
+instructions2aSTART
+Bon travail !
 
-testSTART
-Bra jobbat!
+Il t'a fallu  
+instructions2aEND
 
+instructions2bSTART
+secondes pour dire les couleurs.  
 
-Har du några frågor så ställ dem till försöksledaren nu.
+Passons maintenant à une autre liste de mots. Encore une fois, tu dois dire la couleur du mot le plus vite possible.
 
+Appuyez sur ESPACE pour continuer.
 
-Försök att arbeta så snabbt och korrekt som möjligt.
-
-
-Tryck MELLANSLAG för att börja det riktiga testet.
-testEND
-
-doneSTART
-Nu är experimentet klart,
-
-
-Var vänlig meddela testledaren
+Lorsque vous avez terminé, appuyez sur ESPACE.
+instructions2bEND
 
 
-Tryck på SPACE för att avsluta programmet.
-doneEND
+done1START
+Bien joué! 
 
-rightSTART
-Rätt!
-rightEND
 
-incorrectSTART
-Fel! Det är färgen som gäller inte ordet
-incorrectEND
+Il t'a fallu 
+done1END
 
-SwedishEnd
+done2START
+secondes pour dire les secondes couleurs.  
+
+L'expérience est terminée,
+
+
+Appuyez sur l'espace pour mettre fin à l'expérience.
+done2END
+
+FrenchEnd
 
 English
-instructionsSTART
-Your task is to as accurately and quickly as possible to determine the color of a presented word.
-You get two options, one on each side of the colored word.
-Use the X button if the right option is the left, and the M-key if right option is to the right.
+instructions1aSTART
+Interactive Stroop Effect Experiment
 
+In this experiment you are required to say the color of the word, not what the word says. For example, for the words
+instructions1aEND
 
+instructions1bSTART
+you should say "Blue, Red, Green". 
 
-In the example below, you would then press the X (left), as the word is presented in the color green.
-instructionsEND
+As soon as the words appear on your screen, read the list as fast as you can. 
 
-practiceSTART
-Press SPACE to test six trials before the start of the actual test.
-practiceEND
+When you have finished, press SPACE.
+instructions1bEND
 
-testSTART
+instructions2aSTART
 Good work!
 
+It took you 
+instructions2aEND
 
-If you have any questions, please ask experimenter leader now.
+instructions2bSTART
+seconds to say the colors.  
+
+Now let's continue with another list of words. Again, you should say the color of the word.
+
+Press SPACE to continue.
+
+When you have finished, press SPACE.
+instructions2bEND
 
 
-Try to answer as quickly and accurately as possible.
+done1START
+Well done. 
 
 
-Press the SPACE to start the experiment.
-testEND
+It took you 
+done1END
 
+done2START
+seconds to say the second colors.  
 
-doneSTART
 The experiment is done,
 
 
-Please notify the experimental leader
-
-
 Press space to end the experiment
-doneEND
-
-rightSTART
-Correct!
-rightEND
-
-incorrectSTART
-Incorrect! It is the color not the word
-incorrectEND
+done2END
 
 EnglishEnd

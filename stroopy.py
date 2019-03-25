@@ -139,7 +139,7 @@ def create_instructions_dict(instr):
 
 def create_instructions(input, START, END):
     instruction_text = parse_instructions(input, START, END)
-    print instruction_text
+    print(instruction_text)
     text_stimuli = visual.TextStim(window, text=instruction_text, wrapWidth=1.2,
                                    alignHoriz='center', color="Black",
                                    alignVert='center', height=0.06)
@@ -216,7 +216,7 @@ if __name__ == "__main__":
 
     window = experiment.create_window(color=(0, 0, 0))
 
-    for instruction, (START, END) in instructions_dict.iteritems():
+    for instruction, (START, END) in instructions_dict.items():
         instruction_stimuli[instruction] = create_instructions(instructions, START, END)
     # We don't want the mouse to show:
     event.Mouse(visible=False)
